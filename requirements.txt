@@ -1,0 +1,7 @@
+langchain
+requests
+beautifulsoup4
+tiktoken
+langchain-community
+langchain-groq
+python-dotenv
